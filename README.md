@@ -12,7 +12,10 @@
 - 💻 **HTML5**  
 - 🎨 **Materialize CSS**  
 - 📚 **Bibliotecas JavaScript**  
-- 🖥️ **Angular**
+- 🖥️ **Angular**  
+- 🔧 **Gestão de Projetos de TI**  
+- 📊 **Desenvolvimento Web Full Stack**  
+- 📈 **Análise de Dados**
 
 ---
 
@@ -40,7 +43,9 @@
 **Responsabilidades:**  
 - Desenvolvimento e análise de sistemas, focando em soluções web com HTML, CSS, JavaScript, e Angular.  
 - Acompanhamento de equipes e gestão de projetos de TI.
-
+- Colaboração com o time de desenvolvimento para implementar funcionalidades em diversas plataformas.
+- Trabalhei com ferramentas de versionamento de código como **Git** e **GitHub**.
+  
 ---
 
 ## 🎓 Formação Acadêmica
@@ -48,15 +53,20 @@
 ### 📍 **Estácio**  
 **Curso:** Análise e Desenvolvimento de Sistemas, Gestão de Projetos de TI  
 🗓️ **Período:** Outubro de 2021 - Março de 2025  
-**Status:** Atualmente cursando o 5º período.
+**Status:** Atualmente cursando o 5º período.  
+**Principais Disciplinas:**  
+- **Desenvolvimento Web**  
+- **Gestão de Projetos de TI**  
+- **Banco de Dados**  
+- **Análise de Sistemas**
 
 ---
 
 ## 📝 Resumo Profissional
 
-Sou **Analista e Desenvolvedor de Sistemas** com experiência em **desenvolvimento web** utilizando **HTML5**, **CSS** e **JavaScript**. Tenho habilidades em frameworks como **Angular** e estou constantemente buscando aprender novas tecnologias. Tenho uma grande paixão por desenvolver soluções eficientes e inovadoras para melhorar a experiência do usuário e otimizar processos.
+Sou **Analista e Desenvolvedor de Sistemas** com experiência em **desenvolvimento web** utilizando **HTML5**, **CSS**, **JavaScript** e **Angular**. Tenho habilidades em frameworks e bibliotecas modernas para criação de interfaces responsivas e interativas. Tenho uma abordagem focada na **experiência do usuário** e na **eficiência de código**. 
 
-Estou em processo de formação na área de **Desenvolvimento e Análise de Sistemas**, com foco em **Gestão de Projetos de TI**. Atualmente, busco integrar meu aprendizado acadêmico com a experiência prática adquirida em minha carreira.
+Estou em processo de formação na área de **Desenvolvimento e Análise de Sistemas**, com foco em **Gestão de Projetos de TI**, e continuo a me aprofundar em áreas como **back-end** e **análise de dados**. No meu trabalho, busco sempre aprender, evoluir e aplicar as melhores práticas de desenvolvimento para alcançar soluções inovadoras e eficazes.
 
 ---
 
@@ -64,7 +74,8 @@ Estou em processo de formação na área de **Desenvolvimento e Análise de Sist
 
 - 📚 **React**  
 - 🚀 **Node.js**  
-- 📈 **Análise de Dados**
+- 📊 **Análise de Dados e Machine Learning**  
+- 🖥️ **Cloud Computing**  
 
 ---
 
@@ -80,9 +91,8 @@ Estou em processo de formação na área de **Desenvolvimento e Análise de Sist
 - Expandir meus conhecimentos em **back-end** e **cloud computing**.  
 - Contribuir para projetos inovadores na área de **desenvolvimento web** e **gestão de sistemas**.  
 - Alcançar um cargo de liderança em projetos de **TI** e **Gestão de Projetos**.
+- Continuar a me especializar em **análise de dados** e **inteligência artificial**.
 
 ---
 
 ## 💬 **Adoro aprender, colaborar e compartilhar conhecimento!**
-
----
