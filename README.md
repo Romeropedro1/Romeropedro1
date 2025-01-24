@@ -98,4 +98,4 @@ Estou em processo de formação na área de **Desenvolvimento e Análise de Sist
 
 ---
 
-## 💬 **Adoro aprender, colaborar e compartilhar conhecimento!**
+ 💬 Adoro aprender, colaborar e compartilhar conhecimento!
