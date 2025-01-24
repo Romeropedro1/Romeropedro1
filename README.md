@@ -41,7 +41,7 @@
 
 ### 📍 **Estácio**  
 **Cargo:** Analista de Sistema  
-🗓️ **Período:** Outubro de 2022 - Março de 2024 (1 ano e 6 meses)  
+🗓️ **Período:** Outubro de 2022 - Março de 2025 (2 ano e 6 meses)  
 📍 **Local:** Olinda, Pernambuco, Brasil  
 **Responsabilidades:**  
 - Desenvolvimento e análise de sistemas, focando em soluções web com HTML, CSS, JavaScript, e Angular.  
@@ -55,7 +55,7 @@
 
 ### 📍 **Estácio**  
 **Curso:** Análise e Desenvolvimento de Sistemas, Gestão de Projetos de TI  
-🗓️ **Período:** Outubro de 2021 - Março de 2025  
+🗓️ **Período:** Outubro de 2022 - Março de 2025  
 **Status:** Atualmente cursando o 5º período.  
 **Principais Disciplinas:**  
 - **Desenvolvimento Web**  
