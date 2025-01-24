@@ -21,9 +21,12 @@
 
 ## 🏆 Certificações
 
-- 🏅 **Certificação Discover 1**  
-- 🏅 **Certificação Discover 2**  
-- 🏅 **Certificação Discover 3**
+- 🏅 **Certificação Discover fundamentos da programação web, HTML, CSS, Javascript, Git e Github.1**  
+- 🏅 **Certificação  Fundamentos do Python, Conceitos de API, Métodos HTTP, Banco de dados, Flask, Autenticação com
+ Flask-Login, Tratamento de erros e Deplo 2**  
+- 🏅 **Certificação : Fundamentos do C#, Fundamentos do .NET, pilares da Programação Orientada a Objetos, construção de
+ uma API, validações de dados com FluentValidation, criação de um ltro de exceções, Banco de Dados e Entity
+ Framework 3**
 
 ---
 
