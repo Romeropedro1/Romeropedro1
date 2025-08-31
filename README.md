@@ -2,7 +2,7 @@
 # **👨‍💻 Romeropedro1**  
 **Analista e Desenvolvedor de Sistemas | HTML, CSS, JavaScript e Angular**  
 📍 **Localização**: Recife, Pernambuco, Brasil  
-📞 **Contato**: 81984938350 | 📧 [romero-pedro1@outlook.com.br](mailto:romero-pedro1@outlook.com.br)  
+📞 **Contato**: 81986297013 | 📧 [romero-pedro1@outlook.com.br](mailto:romero-pedro1@outlook.com.br)  
 🔗 **LinkedIn**: [Romero Pedro](https://www.linkedin.com/in/romero-pedro1)
 
 ---
